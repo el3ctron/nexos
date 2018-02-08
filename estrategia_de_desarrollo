@@ -1,0 +1,10 @@
+* definir la tecnología a usar (se sugiere django y mongodb por versatilidad para la definición de grafos)
+* definir campos la base de datos
+* montar la plataforma
+* definir roles de la plataforma
+** administrador
+** revisor de información (verifica la veracidad de la información adicionada)
+** colaborador (adiciona información a la plataforma)
+* buscar fuentes de información
+* formatear la información y adicionarla a la base de datos
+* ensamblar equipos de trabajo para investigar y adicionar informacin faltante en la plataforma
