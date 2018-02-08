@@ -11,3 +11,4 @@
 * buscar fuentes de información
 * formatear la información disponible y adicionarla a la base de datos
 * ensamblar equipos de trabajo para investigar y adicionar información faltante en la plataforma
+* difundir en las redes sociales
