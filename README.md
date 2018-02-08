@@ -16,3 +16,4 @@ Con el fin de ir adicionando información relacionada se define el siguiente rep
 * manuales
   - Manuales de operación de los grupos de trabajo y la plataforma
 
+Cualquier duda que se tenga, por ejemplo con cómo aportar al proyecto ó como es el funcionamiento de git (que es la tecnología con la que se sincronizan todos los avances) comunicarse con @el3ctron ó abrir un nuevo issue aquí --> https://github.com/el3ctron/nexos/issues/

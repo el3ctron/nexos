@@ -26,11 +26,11 @@ $ apt-get install git
 
 2. Manual para descargar el repositorio
 
-2.1. ubícate en la carpeta donde quieres que el proyecto quede en tu computador
-2.2. copia la ubicación de esa carpeta
-2.3. abre una consola luego pega la ruta de esa carpeta anteponiendo el comando "cd" así:
-    cd [ruta de la carpeta en tu computadora donde quieres que quede el proyecto]
-2.4. verifica que estás en la carpeta que quieres
-2.5. escribe en la consola el comando
-    git clone [url del proyecto]
-2.6. listo!
+    2.1. ubícate en la carpeta donde quieres que el proyecto quede en tu computador
+    2.2. copia la ubicación de esa carpeta
+    2.3. abre una consola luego pega la ruta de esa carpeta anteponiendo el comando "cd" así:
+        cd [ruta de la carpeta en tu computadora donde quieres que quede el proyecto]
+    2.4. verifica que estás en la carpeta que quieres
+    2.5. escribe en la consola el comando
+        git clone [url del proyecto]
+    2.6. listo!
