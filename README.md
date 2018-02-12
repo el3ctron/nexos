@@ -1,5 +1,5 @@
-# nexos
-*software para analizar las vinculaciones económicas, sociales, laborales, JUDICIALES y genéticas de los políticos colombianos*
+## nexos
+*Software para analizar las vinculaciones económicas, sociales, laborales, JUDICIALES y genéticas de los políticos colombianos*
 
 La visualización de las redes que acompañan a los políticos en Colombia permitiría entender claramente los mecanismos que durante más de 150 años han mantenido a los mismos en el poder.
 
