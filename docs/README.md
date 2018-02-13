@@ -4,16 +4,16 @@
 
 La visualización de las redes que acompañan a los políticos en Colombia permitiría entender claramente los mecanismos que durante más de 150 años han mantenido a los mismos en el poder. Con el fin de ir adicionando información relacionada se define el siguiente repositorio agilizar el desarrollo, el cual se encuentra divido en:
 
-* [manuales](./manuales)
+* [manuales](../manuales)
   - Repositorio de manuales de operación en los grupos de trabajo
   - Repositorio de manuales de funcionamiento de la plataforma
-* [bibliografía](bibliografía)
+* [bibliografía](../bibliografía)
   - Material de referencia, fuentes argumentativas de los grafos adicionados
-* [arquitectura](arquitectura)
+* [arquitectura](../arquitectura)
   - Repositorio de directrices arquitectónicas de la plataforma
-* [dbs](dbs)
+* [dbs](../dbs)
   - Bases de datos de los cuales se generan los grafos
-* [bin](bin)
+* [bin](../bin)
   - Ejecutables, controladores y visualizadores de grafos
 
 **Si tienes una duda con por ejemplo con "cómo aportar al proyecto" ó "como es el funcionamiento de git" (que es la tecnología que usa este repositorio sincronizable)**
