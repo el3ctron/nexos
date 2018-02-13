@@ -16,8 +16,12 @@ La visualización de las redes que acompañan a los políticos en Colombia permi
 * [bin](../bin)
   - Ejecutables, controladores y visualizadores de grafos
 
-**Si tienes una duda con por ejemplo con "cómo aportar al proyecto" ó "como es el funcionamiento de git" (que es la tecnología que usa este repositorio sincronizable)**
+__Con el fínde lograr una coordinación óptima los colaboradores del proyecto deberían tener configurados los dos primeros puntos enunciados en este manual --> https://github.com/el3ctron/manuales__
 
-- revisar en https://github.com/el3ctron/nexos/tree/master/manuales ya que es probable que ahí exista un manual que explique paso a paso
-- buscar una palabra clave en https://github.com/el3ctron/nexos/issues/ ya que es probable que alguien haya tenido el mismo problema antes y ya esté solucionado
-- y en caso último, abrir un nuevo issue aquí --> https://github.com/el3ctron/nexos/issues/ ó comunicarse con @el3ctron
+- Si tienes una duda con por ejemplo con "cómo aportar al proyecto" ó "como es el funcionamiento de git" (que es la tecnología que usa este repositorio sincronizable) revisar en https://github.com/el3ctron/nexos/tree/master/manuales ya que es probable que ahí exista un manual que explique paso a paso
+
+__si existen problemas con la instalación ó el funcionamiento de NEXOS:__
+
+- buscar con una palabra clave en https://github.com/el3ctron/nexos/issues/ ya que es probable que alguien haya tenido el mismo problema antes y ya esté solucionado.
+- abrir un nuevo issue aquí --> https://github.com/el3ctron/nexos/issues/
+- y en caso último, comunicarse con @el3ctron
